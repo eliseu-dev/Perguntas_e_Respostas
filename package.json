@@ -1,0 +1,9 @@
+{
+  "name": "Perguntas_e_Respostas",
+  "version": "1.0.0",
+  "description": "Uma pequena plataforma de perguntas e respostas",
+  "main": "index.js",
+  "repository": "https://github.com/eliseu-dev/Perguntas_e_Respostas.git",
+  "author": "eliseugomes <eliseu.uepb@gmail.com>",
+  "license": "MIT"
+}
