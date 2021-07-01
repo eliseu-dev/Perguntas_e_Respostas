@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/eliseu-dev/Perguntas_e_Respostas.git",
   "author": "eliseugomes <eliseu.uepb@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.8"
+  }
 }
